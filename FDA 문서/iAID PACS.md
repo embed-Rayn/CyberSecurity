@@ -21,14 +21,14 @@
 -   회원정보 조회
 -   로그인
 
-—-상세 프로토콜 명세 작성예정—-
+--상세 프로토콜 명세 작성예정--
 
 ### 보고서 및 템플릿 조회/작성
 
 -   DICOM 데이터에 대해서 의료진이 보고서 내용/보고서 템플릿을 작성/조회하기 위한 RESTful 기반 프로토콜
 -   Base 통신스택: HTTP
 
-—-상세 프로토콜 명세 작성예정—-
+--상세 프로토콜 명세 작성예정--
 
 ### DICOM 정보 조회/업로드
 
@@ -37,11 +37,11 @@
 -   RESTful API형태를 이용해 웹기반으로 의료 영상 및 관련 데이터를 다른 의료 시스템과 기기 간에 교환하고 공유하는 데 사용
 -   통신스택: HTTP
 -   기능: DICOM Web은 다음과 같은 주요 기능을 제공
-    | [Query](https://www.dicomstandard.org/using/dicomweb/query-qido-rs)                    | Search for DICOM objects (QIDO-RS)         | [DICOM PS3.18 10.6](http://dicom.nema.org/medical/dicom/current/output/chtml/part18/sect_10.6.html) |
+    | [Query](https://www.dicomstandard.org/using/dicomweb/query-qido-rs) | Search for DICOM objects (QIDO-RS) | [DICOM PS3.18 10.6](http://dicom.nema.org/medical/dicom/current/output/chtml/part18/sect_10.6.html) |
     | -------------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-    | [Retrieve](https://www.dicomstandard.org/using/dicomweb/retrieve-wado-rs-and-wado-uri) | Retrieve DICOM objects (WADO-RS)           | [DICOM PS3.18 10.4](http://dicom.nema.org/medical/dicom/current/output/chtml/part18/sect_10.4.html) |
-    |                                                                                        | Retrieve single DICOM instances (WADO-URI) | [DICOM PS3.18 9](http://dicom.nema.org/medical/dicom/current/output/chtml/part18/chapter_9.html)    |
-    | [Store](https://www.dicomstandard.org/using/dicomweb/store-stow-rs)                    | Store DICOM objects (STOW-RS)              | [DICOM PS3.18 10.5](http://dicom.nema.org/medical/dicom/current/output/chtml/part18/sect_10.5.html) |
+    | [Retrieve](https://www.dicomstandard.org/using/dicomweb/retrieve-wado-rs-and-wado-uri) | Retrieve DICOM objects (WADO-RS) | [DICOM PS3.18 10.4](http://dicom.nema.org/medical/dicom/current/output/chtml/part18/sect_10.4.html) |
+    | | Retrieve single DICOM instances (WADO-URI) | [DICOM PS3.18 9](http://dicom.nema.org/medical/dicom/current/output/chtml/part18/chapter_9.html) |
+    | [Store](https://www.dicomstandard.org/using/dicomweb/store-stow-rs) | Store DICOM objects (STOW-RS) | [DICOM PS3.18 10.5](http://dicom.nema.org/medical/dicom/current/output/chtml/part18/sect_10.5.html) |
 
 #### DIMSE
 

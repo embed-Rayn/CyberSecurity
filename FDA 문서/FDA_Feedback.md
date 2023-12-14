@@ -1,6 +1,6 @@
 # AID-U FDA 문서 제출 피드백
 
-제출 피드백
+### 제출 후 피드백
 
 ```
 (Cybersecurity: Testing) Based on the information provided in your submission, your device meets the definition of a cyber device under Section 524B(c) of the Federal Food, Drug, and Cosmetic Act.
@@ -15,7 +15,7 @@ See AAMI/UL 2900-1:2017, Clauses 13-19 or IEC 81001-5-1: 2021, Clauses 5.5-5.7 f
 Therefore, please provide the security testing performed ensuring that it addresses the test types listed above, as appropriate, and ensure that the testing covers the end-to-end system.
 ```
 
-한글 번역본
+### 한글 번역본
 
 ```
 귀하의 제출 내용을 기반으로 하면, 귀하의 기기는 연방 식품, 의약품 및 화장품법(Federal Food, Drug, and Cosmetic Act) 524B(c) 조항에 따른 사이버 기기의 정의를 충족합니다.
