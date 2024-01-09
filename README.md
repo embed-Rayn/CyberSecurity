@@ -93,6 +93,8 @@
 - 모의 해킹 진단 후 취약점 수정에 대해 얼마나 이행했는지에 대한 보고서
 
 ### 취약점 수정 과정
-- 
+- 라이브러리 버전 업데이트
 
-    -   [영문 보고서](https://drive.google.com/file/d/1-DEaINDhs4PBYi-yXvN_t1tsnurtkILp/view?usp=drive_link): 권한필요
+### 이행 보고서 링크
+
+-   [영문 보고서](https://drive.google.com/file/d/1-DEaINDhs4PBYi-yXvN_t1tsnurtkILp/view?usp=drive_link): 권한필요
